@@ -1,6 +1,10 @@
 menu:
   Home: /
   Archives: /archives
+  Categories: /categories
+  Tags: /tags
+  About: about/
+  Wiki: https://dervn.github.io/wiki/
 
 # duoshuo comment
 duoshuo: false
